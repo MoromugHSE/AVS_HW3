@@ -1,0 +1,33 @@
+Container before changes:
+There are 21 elements in container:
+This transport has a volume of 131 and needs 10.085403494575914 fuel for 100 km. This is a car. The car can speed up to 89 km/h.
+This transport has a volume of 30 and needs 17.842849486205697 fuel for 100 km. This is a car. The car can speed up to 84 km/h.
+This transport has a volume of 159 and needs 17.982273446264564 fuel for 100 km. This is a truck. The truck can take up to 330 kg.
+This transport has a volume of 168 and needs 7.77374076968038 fuel for 100 km. This is a car. The car can speed up to 52 km/h.
+This transport has a volume of 18 and needs 7.967047890767164 fuel for 100 km. This is a car. The car can speed up to 63 km/h.
+This transport has a volume of 110 and needs 15.674615385547717 fuel for 100 km. This is a car. The car can speed up to 82 km/h.
+This transport has a volume of 179 and needs 18.296456566367663 fuel for 100 km. This is a truck. The truck can take up to 654 kg.
+This transport has a volume of 48 and needs 19.506574875610703 fuel for 100 km. This is a bus. The bus can take up to 33 passengers.
+This transport has a volume of 114 and needs 14.10684158019321 fuel for 100 km. This is a car. The car can speed up to 61 km/h.
+This transport has a volume of 195 and needs 4.289833066248004 fuel for 100 km. This is a truck. The truck can take up to 314 kg.
+This transport has a volume of 165 and needs 15.732313883754289 fuel for 100 km. This is a bus. The bus can take up to 30 passengers.
+This transport has a volume of 75 and needs 8.770465858315127 fuel for 100 km. This is a car. The car can speed up to 84 km/h.
+This transport has a volume of 75 and needs 11.809633554498916 fuel for 100 km. This is a bus. The bus can take up to 13 passengers.
+This transport has a volume of 113 and needs 10.564889490166586 fuel for 100 km. This is a car. The car can speed up to 47 km/h.
+This transport has a volume of 164 and needs 3.722498120213242 fuel for 100 km. This is a bus. The bus can take up to 21 passengers.
+This transport has a volume of 96 and needs 17.00467093755045 fuel for 100 km. This is a bus. The bus can take up to 2 passengers.
+This transport has a volume of 26 and needs 6.4907993888894175 fuel for 100 km. This is a truck. The truck can take up to 323 kg.
+This transport has a volume of 187 and needs 1.3299118050358292 fuel for 100 km. This is a car. The car can speed up to 44 km/h.
+This transport has a volume of 162 and needs 15.391541763051611 fuel for 100 km. This is a bus. The bus can take up to 12 passengers.
+This transport has a volume of 14 and needs 18.628888347698698 fuel for 100 km. This is a car. The car can speed up to 40 km/h.
+This transport has a volume of 31 and needs 9.222165547015326 fuel for 100 km. This is a bus. The bus can take up to 12 passengers.
+
+
+Container after changes:
+There are 4 elements in container:
+This transport has a volume of 168 and needs 7.77374076968038 fuel for 100 km. This is a car. The car can speed up to 52 km/h.
+This transport has a volume of 195 and needs 4.289833066248004 fuel for 100 km. This is a truck. The truck can take up to 314 kg.
+This transport has a volume of 164 and needs 3.722498120213242 fuel for 100 km. This is a bus. The bus can take up to 21 passengers.
+This transport has a volume of 187 and needs 1.3299118050358292 fuel for 100 km. This is a car. The car can speed up to 44 km/h.
+
+

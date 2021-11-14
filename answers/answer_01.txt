@@ -1,0 +1,16 @@
+Container before changes:
+There are 5 elements in container:
+This transport has a volume of 3 and needs 4.5 fuel for 100 km. This is a truck. The truck can take up to 10 kg.
+This transport has a volume of 4 and needs 5.5 fuel for 100 km. This is a bus. The bus can take up to 11 passengers.
+This transport has a volume of 5 and needs 6.5 fuel for 100 km. This is a car. The car can speed up to 12 km/h.
+This transport has a volume of 6 and needs 7.5 fuel for 100 km. This is a bus. The bus can take up to 13 passengers.
+This transport has a volume of 7 and needs 8.5 fuel for 100 km. This is a truck. The truck can take up to 14 kg.
+
+
+Container after changes:
+There are 3 elements in container:
+This transport has a volume of 5 and needs 6.5 fuel for 100 km. This is a car. The car can speed up to 12 km/h.
+This transport has a volume of 6 and needs 7.5 fuel for 100 km. This is a bus. The bus can take up to 13 passengers.
+This transport has a volume of 7 and needs 8.5 fuel for 100 km. This is a truck. The truck can take up to 14 kg.
+
+
