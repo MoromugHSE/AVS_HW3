@@ -4,14 +4,17 @@ from transport import Transport
 class Container:
     __slots__ = ['_size', '_cont']
 
+    # Container constructor.
     def __init__(self):
         self._size = 0
         self._cont = []
 
+    # Pushes element to the end of container.
     def push_back(self, tr):
         self._size += 1
         self._cont.append(tr)
 
+    # Generates a container.
     @staticmethod
     def generate(size):
         cont = Container()
@@ -19,6 +22,7 @@ class Container:
             cont.push_back(Transport.generate())
         return cont
 
+    # Reads a Constructor from file.
     @staticmethod
     def read_from_file(size, file):
         cont = Container()
@@ -30,6 +34,7 @@ class Container:
                 cont.push_back(tr)
         return cont
 
+    # Either reads a Constructor from file or generates it.
     @staticmethod
     def create(file):
         try:
@@ -43,6 +48,7 @@ class Container:
         except:
             return None
 
+    # Finds average distance Transport in Container can ride.
     def get_average_distance(self):
         distance_sum = 0
         for tr in self._cont:
@@ -52,6 +58,7 @@ class Container:
         else:
             return distance_sum / self._size
 
+    # Removes from container all elements with max distance less than average.
     def remove_lesser_than_average(self):
         av_dist = self.get_average_distance()
         bad_transport = []
@@ -62,6 +69,7 @@ class Container:
             self._cont.remove(tr)
             self._size -= 1
 
+    # Writes the Container to file.
     def write_to_file(self, file):
         file.write(f'There are {self._size} elements in container:\n')
         for tr in self._cont:

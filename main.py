@@ -2,6 +2,7 @@ from container import Container
 from sys import argv
 
 
+# Main method: program starting point.
 def main(args):
     try:
         fin = open(args[0], 'r')
